@@ -2,7 +2,7 @@
 
 To run this demo:
 
-[![Contribute](factory-contribute.svg)](https://blog.sunix.org/cheeze?url=https://raw.githubusercontent.com/sunix/che-quarkus-demo/microservices/devfile.yaml)
+[![Contribute](factory-contribute.svg)](https://codeready-crw201.apps.cluster-nantes-e4a9.nantes-e4a9.example.opentlc.com/f?url=https://raw.githubusercontent.com/sunix/che-quarkus-demo/microservices/devfile.yaml)
 
 or
 
